@@ -1,0 +1,175 @@
+[
+    {
+        "nome": "TubbyLand Archives Act 1",
+        "descript": "The TubbyLand Archives is an official reboot of the 'Five Nights at TubbyLand' series for modern audiences! Featuring updated visuals, all new mechanics, and a cleaned up version of the original story. You, Parker Anderson, are a college student in need of some easy cash. With nowhere else to turn to, you look in the daily paper and spot a rather... peculiar offering. The 'TubbyLand Activity Center', a previously closed down entertainment venue preparing to reopen is looking for a night security guard from the hours of 12 - 6 AM. Monitor cameras, and ensure the safety of property and equipment for $240 a week with quick advancements.",
+        "link": "https://gamejolt.com/games/ttla-act1/709418",
+        "image": "./img/TBAA/TBAA1.jpg",
+        "promo": [
+            "./img/TBAA/promo/TBAAP0.gif",
+            "./img/TBAA/promo/TBAAP1.png",
+            "./img/TBAA/promo/TBAAP2.png",
+            "./img/TBAA/promo/TBAAP3.png"
+    ]
+    },
+
+    {
+        "nome": "Forgotten at Freddybear's",
+        "descript": "In the aftermath of a tragic incident, the notorious diner remains open against all odds. Henry Emily and William Afton persist in their relentless work, striving to keep the restaurant afloat. As you step into the shoes of John Hudson, a father recently laid off, your primary concern becomes providing for your family. Rumors circulate about a potential job opening at 'Fredbear's Family Diner', urging you to seize the opportunity before it slips away. Little do you know the unforeseen consequences that await you as you unknowingly become entangled in a dark and twisted game orchestrated by two vengeful souls. The animatronics, once innocent and joyful, have been reprogrammed. Night after night, you must navigate the haunted halls, surviving and unraveling the enigmatic secrets concealed within the restaurant's walls....",
+        "link": "https://gamejolt.com/games/Forgotten/686230",
+        "image": "./img/FAF/FAF.jpg",
+        "promo": [
+            "./img/FAF/promo/FAFP0.gif",
+            "./img/FAF/promo/FAFP1.png",
+            "./img/FAF/promo/FAFP2.png",
+            "./img/FAF/promo/FAFP3.png"
+        ]
+    },
+
+    {
+        "nome": "Tales of the Bunny Man",
+        "descript": "Your daughter has been missing for a Month, along with other children you knew about and now you’re here to prove that she is still alive. You’re here to go back to the abandoned Freddy Fazbear’s Pizza Establishment and bring your child back home safely. However, not everything is always that simple in this tale, as the rabbit hole goes much, much deeper. Face the truth, no matter how heart-wrenching it may be.",
+        "link": "https://gamejolt.com/games/bunnyman/774753",
+        "image": "./img/TOBM/TOBM.jpg",
+        "promo": [
+            "./img/TOBM/promo/TOBMP0.png",
+            "./img/TOBM/promo/TOBMP1.png",
+            "./img/TOBM/promo/TOBMP2.png",
+            "./img/TOBM/promo/TOBMP3.png"
+        ]
+    },
+
+    {
+        "nome": "Welcome to Fredbear's (Remake)",
+        "descript": "After witnessing a traumatic experience William decides to shut down his business and ship off all of his assets to a facility across the country called Storage & Rentals, Utah. 17 Years later the storage facility goes bankrupt and William gets sent a notice to go pick up his assets or he will be fined.",
+        "link": "https://gamejolt.com/games/wtfremake/870350",
+        "image": "./img/WTFR/WTFR.jpg",
+        "promo": [
+            "./img/WTFR/promo/WTFRP0.png",
+            "./img/WTFR/promo/WTFRP1.png",
+            "./img/WTFR/promo/WTFRP2.png",
+            "./img/WTFR/promo/WTFRP3.png"
+        ]
+    },
+
+    {
+        "nome": "Fazbear Entertainment: Storage",
+        "descript": "Fazbear Entertaintment: Storage is a total revamp of Fazbear's Fright: Storage. New characters, new mechanics, a new story, and more. Taking place in the large gap between FNaF 1 and FNaF 3, FE:S seeks to merge somewhat seamlessly with the existing FNaF story, while also filling in a few gaps.",
+        "link": "https://gamejolt.com/games/FazEntStorage/439239",
+        "image": "./img/FES/FES.jpg",
+        "promo": [
+            "./img/FES/promo/FESP0.png",
+            "./img/FES/promo/FESP1.png",
+            "./img/FES/promo/FESP2.png",
+            "./img/FES/promo/FESP3.png"
+
+        ]
+    },
+
+    {
+        "nome": "FNAF 1 REMAKE",
+        "descript": "FNaF 1 Remake is a bite-sized FNaF Experience based on a lot of popular media surrounding the game in the current day. Needless to say but this isn't an actual remake of FNaF 1 and is not associated with Scott Cawthon. ",
+        "link": "https://gamejolt.com/games/imadethisforyou/981759",
+        "image": "./img/FNAF1R/FNAF1R.jpg",
+        "promo": [
+            "./img/FNAF1R/promo/FNAF1R.gif"
+        ]
+    },
+
+    {
+        "nome": "Animatronic Memories",
+        "descript": "Animatronic Memories is a fnaf fan-game based on the events of the first FNaF game, but set in an alternate universe.",
+        "link": "https://gamejolt.com/games/animatrmemories/813744",
+        "image": "./img/AM/AM.jpg",
+        "promo": [
+            "./img/AM/promo/AMP0.gif",
+            "./img/AM/promo/AMP1.png",
+            "./img/AM/promo/AMP2.png",
+            "./img/AM/promo/AMP3.png"
+        ]
+    },
+
+    {
+        "nome": "FNAF P.T.",
+        "descript": "---",
+        "link": "https://gamejolt.com/games/FNAF-P-T-/529824",
+        "image": "./img/PT/PT.jpg"
+    },
+
+    {
+        "nome": "Five Nights at Freddy's Rewritten: 87",
+        "descript": "Welcome to the new and improved Freddy Fazbear's Pizza! What Jeremy thought would be a small summer job quickly became a stressful nightmare. Arcade machines burst to life, animatronics walk off their stages, and he swears that he can hear whispers between the static on his camera monitors. Maybe there is something trapped here, and maybe Jeremey can save them.",
+        "link": "https://dot-e26.itch.io/fnaf-rewritten-87",
+        "image": "./img/87/87.png",
+        "promo": [
+            "./img/87/promo/87P0.png",
+            "./img/87/promo/87P1.png",
+            "./img/87/promo/87P2.png",
+            "./img/87/promo/87P3.png"
+        ]
+    },
+
+    {
+        "nome": "Five Nights at Chuck E. Cheese's: Rebooted",
+        "descript": "In a few days, the old animatronics are going to be replaced. Although, that means someone's going to have to watch over the restaurant during the transitionary period, and management has given you a new temporary position as a nightwatchman. You've been provided with security cameras to ensure your and the animatronic's safety, along with a personal phone guide. It should be a simple job, right?",
+        "link": "https://gamejolt.com/games/fnacecr/563650",
+        "image": "./img/FNACEC/FNACEC.jpg",
+        "promo": [
+            "./img/FNACEC/promo/FNACECP0.png",
+            "./img/FNACEC/promo/FNACECP1.png",
+            "./img/FNACEC/promo/FNACECP2.png",
+            "./img/FNACEC/promo/FNACECP3.gif"
+        ]
+    },
+
+    {
+        "nome": "Freddy's: Reanimated",
+        "descript": "It’s been a decade since Freddy’s closed its doors. Here you are, at that damned establishment. The halls are never empty here. On this cold night you ask yourself; were the grisly rumors true? As a security guard, your job is quite straightforward. Keep a close eye on those cameras, look out for suspicious activity, and don’t let anything get into your office.",
+        "link": "https://gamejolt.com/games/that_damned_establishment/895066",
+        "image": "./img/FR/FR.jpg",
+        "promo": [
+            "./img/FR/promo/FRP0.gif",
+            "./img/FR/promo/FRP1.png",
+            "./img/FR/promo/FRP2.png",
+            "./img/FR/promo/FRP3.png"
+        ]
+    },
+
+    {
+        "nome": "Five Nights at Frickbear's 3",
+        "descript": "Welcome to Five Nights at Frickbear's 3, a FNaF fangame with a big focus on player choice and replayability, with a uniquely goofy-lookin' art style, over 40 unique animatronic enemies, 3D free-roam minigames, and four different endings! Can YOU survive Five Nights at Frickbear's? ...3?",
+        "link": "https://gamejolt.com/games/frickbears3/930477",
+        "image": "./img/FB/FB.jpg",
+        "promo": [
+            "./img/FB/promo/FBP0.png",
+            "./img/FB/promo/FBP1.png",
+            "./img/FB/promo/FBP2.png",
+            "./img/FB/promo/FBP3.png"
+        ]
+    },
+
+    {
+        "nome": "Banshee",
+        "descript": "---",
+        "link": "https://gamejolt.com/get/build?game=853429&build=1805342",
+        "image": "./img/FNIA/FNIA.jpg",
+        "promo": [
+            "./img/FNIA/promo/BP0.png",
+            "./img/FNIA/promo/BP1.png",
+            "./img/FNIA/promo/BP2.png",
+            "./img/FNIA/promo/BP3.png"
+        ]
+    },
+
+    {
+        "nome": "Sweet Harmony",
+        "descript": "Es hora de volver a la gran ciudad, olvidar tu pasado y encontrar trabajo cuanto antes. ¿Qué tal vigilante multifuncional? Sweet Harmony necesita a alguien que vigile las instalaciones tras un cierre temporal provocado por un extraño incidente. Suena sencillo, ¿verdad? ¿Qué podría salir mal?",
+        "link": "https://gamejolt.com/games/SweetHarmony/384020",
+        "image": "./img/SW/SW.jpg",
+        "promo": [
+            "./img/SW/promo/SWP0.png",
+            "./img/SW/promo/SWP1.png",
+            "./img/SW/promo/SWP2.png",
+            "./img/SW/promo/SWP3.png"
+        ]
+    }
+]

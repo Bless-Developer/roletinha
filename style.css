@@ -1,0 +1,300 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@keyframes pulsar{
+    0% {
+        transform: scale(1);
+    }
+
+    50%{
+        transform: scale(1.05);
+    }
+
+    100%{
+        transform: scale(1);
+    }
+}
+
+
+
+body{
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100vh;
+
+    text-align: center;  
+    
+    background:
+        radial-gradient(
+            circle at center,
+            rgba(61, 20, 83, 0.35),
+            transparent 60%
+        ),
+        linear-gradient(
+            135deg,
+            #050505,
+            #16001f,
+            #050505
+        );
+
+    font-family: "Nunito Sans", sans-serif;
+    color: white;
+}
+
+.intro {
+    padding: 60px 20px 35px;
+}
+
+.intro span,
+.resultado-titulo span{
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 5px;
+
+    opacity: 0.6;
+}
+
+.intro h1 {
+    margin-top: 10px;
+
+    font-size: clamp(42px, 7vw, 80px);
+    font-weight: 1000;
+
+    letter-spacing: 3px;
+
+    text-shadow:
+        0 0 20px rgba(255, 255, 255, 0.15);
+}
+
+.intro p {
+    margin-top: 10px;
+
+    font-size: 18px;
+    opacity: 0.65;
+}
+
+
+button{
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 800;
+    cursor: pointer;
+
+    color: #eee5f2;
+    
+    border: none;
+    border-radius: 16px;
+    background-color: #321849;
+
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+
+    
+
+    transition: 
+        transform 0.25s,
+        background-color 0.25s,
+        box-shadow 0.25s;
+}
+
+#btn{
+    animation: pulsar 5s infinite;
+
+    padding: 18px 45px;
+
+    font-size: 28px;
+
+    margin-top: 45px;
+}
+
+button:hover{ 
+    background-color: #4f2672;;
+
+    font-weight: 800;
+}
+
+#transic{
+    background-color: black;
+    opacity:  0;
+
+    position: fixed;
+
+    width: 100%;
+    height: 100%;
+
+    pointer-events: none;
+
+    transition: opacity 2s ease;
+
+    z-index: 999;
+}
+
+.window{
+    overflow: hidden;
+
+    background: rgba(0, 0, 0, .45);
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+
+    border-top: 3px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 3px solid rgba(255, 255, 255, 0.05);
+
+    padding: 20px 0px;
+
+    width: 100%;
+
+        
+}
+
+.roulette{
+    display:inline-flex;
+
+    position: relative;
+
+    transition: transform 10s cubic-bezier(0.1, 0.8, 0.15, 1);
+    
+}
+
+.games{
+    width: 540px;
+    height: 300px;
+
+    margin: 0px 5px;
+
+    border: 3px solid rgba(0, 0, 0, 0.7);
+
+    object-fit: cover;
+    object-position: center;
+
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.resultado{
+    display: none;
+
+    padding: 35px 20px 60px;
+}
+
+.resultado-titulo {
+    margin-bottom: 20px;
+}
+
+.res-image {
+    position: relative;
+    margin: auto;
+    padding: 15px;
+
+    width: fit-content;
+    max-width: 100%;  
+
+    background: rgba(15, 0, 15, .9);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.6);
+
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    
+}
+
+.res-image img {
+    display: block;
+
+    width: min(856px, 80vw);
+    height: min(480px, 45vw);
+
+    min-height: 300px;
+
+    border-radius: 8px;
+
+    object-fit: cover;
+}
+
+.res-image button {
+    position: absolute;
+
+    top: 50%;
+
+    width: 55px;
+    height: 55px;
+
+    transform: translateY(-50%);
+
+    margin: 0;
+    padding: 0;
+
+    font-size: 42px;
+    line-height: 1;
+
+    border-radius: 50%;
+
+    z-index: 2;
+
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.res-image button:hover {
+    background-color: rgba(50, 24, 73, 0.35);
+}
+
+.prev{
+    left: 30px;
+}
+
+.next{
+    right: 30px;
+}
+
+.ind {
+    margin-top: 18px;
+}
+
+.ind span {
+    margin: 0 4px;
+
+    color: white;
+
+    font-size: 12px;
+
+    opacity: 0.35;
+
+    transition: 0.3s;
+}
+
+.ind span.ative {
+    opacity: 1;
+
+    transform: scale(1.3);
+}
+
+.res-infos {
+    max-width: 900px;
+
+    margin: 20px auto 0;
+}
+
+.res-infos h1 {
+    font-weight: 1000;
+
+    font-size: clamp(30px, 5vw, 50px);
+
+    padding: 20px;
+}
+
+.res-infos h3 {
+    font-size: 17px;
+
+    font-weight: 500;
+
+    line-height: 1.6;
+
+    opacity: 0.65;
+}
+
+#btn2 {
+    margin-top: 35px;
+    padding: 17px 30px;
+
+    font-size: 20px;
+
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
